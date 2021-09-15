@@ -11,5 +11,5 @@ Câmpus Capivari
 
 ### Lição com objetivo de apresentar a técnica de test de software
 
-[Lesson](https://github.com/GiovanaBorges/Test-Software/tree/main/)
+[Lesson](https://github.com/GiovanaBorges/Test-Software/tree/main/LAB01-testSoftware)
 
