@@ -10,6 +10,10 @@
 
 ### Atividade: Lab01
 
+## Exercício proposto
+
+É pedido que suponhamos o que o programa deveria estar fazendo sem ver o código dele e somente verificando o resultado da execução do programa.
+
 ## Objetivos:
 
 Levar à reflexão sobre o que é essencial, necessário ou desejável
