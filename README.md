@@ -4,19 +4,22 @@ Este repositório contem todos os arquivos do curso de Teste De Software com dur
 Câmpus Capivari
 
 - [Lab01](#id01)
+- [Lab02](#id02)
+
+#
+
+#
 
 ## Introdução a teste de software <a name="id01"></a>
 
-## Introdução a teste de software(pt-2)<a name="id02"></a>
-
-### Lição com objetivo de apresentar a técnica de test de software
+#### Lição com objetivo de apresentar a técnica de test de software
 
 [Lesson](https://github.com/GiovanaBorges/Test-Software/tree/main/LAB01-testSoftware)
 
-- [Lab02](#id02)
+#
 
-## Introdução a teste de software (Parte 2)<a name="id01"></a>
+## Introdução a teste de software(pt-2)<a name="id02"></a>
 
-### Lição com objetivo de apresentar a técnica de test de software
+#### Lição com objetivo de apresentar a técnica de test de software
 
 [Lesson](https://github.com/GiovanaBorges/Test-Software/tree/main/LAB01P2-testSoftware)
