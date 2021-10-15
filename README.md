@@ -31,4 +31,4 @@ Câmpus Capivari
 
 #### Lição com objetivo de aplicar as técnicas de teste funcional de particionamento de equivalência e de análise de valores limites.
 
-[Lesson](https://github.com/GiovanaBorges/Test-Software/tree/main/LAB03-testSoftware)
+[Lesson](https://github.com/GiovanaBorges/Test-Software/tree/main/Lab03-testSoftware)
