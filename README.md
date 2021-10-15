@@ -5,6 +5,7 @@ Câmpus Capivari
 
 - [Lab01](#id01)
 - [Lab02](#id02)
+- [Lab03](#id03)
 
 #
 
@@ -23,3 +24,11 @@ Câmpus Capivari
 #### Lição com objetivo de apresentar a técnica de test de software
 
 [Lesson](https://github.com/GiovanaBorges/Test-Software/tree/main/LAB01P2-testSoftware)
+
+#
+
+## Introdução a teste de software Lab03<a name="id03"></a>
+
+#### Lição com objetivo de aplicar as técnicas de teste funcional de particionamento de equivalência e de análise de valores limites.
+
+[Lesson](https://github.com/GiovanaBorges/Test-Software/tree/main/LAB03-testSoftware)
